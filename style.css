@@ -71,7 +71,7 @@ nav ul li a:hover {
 .bar1 {
   transform: rotate(315deg);
   position: absolute;
-  top: 23px;
+  top: 50%;
 }
 
 .bar2 {
@@ -82,7 +82,7 @@ nav ul li a:hover {
 .bar3 {
   transform: rotate(45deg);
   position: absolute;
-  bottom: 22px;
+  bottom: 50%;
 }
 
 /*===responsive navbar classes===*/
